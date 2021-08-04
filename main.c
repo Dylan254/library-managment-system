@@ -402,7 +402,7 @@ case 5:
 updateCredential();
 break;
 case 0:
-printf("\n\n\n\t\t\t\tThank you!!!\n\n\n\n\n");
+printf("\n\n\n\t\t\t\tThank you for accessing our services a quick reminder your poor because your poor byebyebye 👋!!!\n\n\n\n\n");
 exit(1);
 break;
 default:
