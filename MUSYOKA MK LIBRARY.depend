@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628054704 source:c:\users\admin\documents\main.c\musyoka mk library\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+
